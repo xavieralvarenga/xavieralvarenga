@@ -4,69 +4,78 @@
 <h3 align="center">Desarrollador Java Backend en formación | 2026–2027</h3>
 
 <p align="center">
-  Desarrollando proyectos backend con Java, con enfoque en programación
-  orientada a objetos, código limpio y lógica de negocio mantenible.
+  Aprendiendo a construir aplicaciones backend mediante proyectos prácticos,
+  buenas prácticas y código mantenible.
 </p>
 
 ---
 
 ## Sobre mí
 
-- Aprendo desarrollo backend con Java mediante proyectos prácticos.
-- Desarrollo **Ecommerce Offer Engine**, un proyecto para evaluar ofertas y descuentos en comercio electrónico.
-- Fortalezco mis conocimientos de diseño de software, pruebas y buenas prácticas.
-- Mi objetivo es convertirme en un desarrollador Java Backend Junior competitivo.
-
-## Tecnologías
-
-<p align="left">
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
-  </a>
-</p>
+- Me preparo para trabajar como desarrollador Java Backend Junior.
+- Desarrollo **Ecommerce Offer Engine**, un motor de evaluación de ofertas y descuentos para comercio electrónico.
+- Practico programación orientada a objetos, diseño de software y lógica de negocio.
+- Mi objetivo es desarrollar aplicaciones backend documentadas, probadas y mantenibles.
 
 ## Tecnologías en aprendizaje
 
+### Lenguaje y herramientas
+
 <p align="left">
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="45" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,git,github,maven" alt="Java, Git, GitHub y Maven" />
 </p>
 
-- Inyección de dependencias e inversión de control.
-- Manejo de excepciones y excepciones personalizadas.
-- Streams, Lambdas y Optional en Java.
-- Desarrollo de APIs REST.
-- SQL y persistencia de datos con PostgreSQL.
-- Desarrollo backend con Spring Boot.
+- Java: POO, clases, interfaces, herencia y polimorfismo.
+- Colecciones, genéricos y manejo de excepciones.
+- Lambdas, Streams API y Optional.
+- Records e instanceof.
+- Git, GitHub, Maven y gestión de dependencias.
 
-## Proyecto destacado
+### Ecosistema Spring
 
-### Ecommerce Offer Engine
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+</p>
 
-Motor de evaluación de ofertas y descuentos para comercio electrónico.
+- **Spring Core:** IoC, inyección de dependencias y beans.
+- **Spring Boot:** configuración, starters y autoconfiguración.
+- **Spring Web / Spring MVC:** controladores y APIs REST.
+- **Spring Data JPA:** repositorios y persistencia.
+- **Spring Security:** autenticación y autorización.
+- **Spring Validation:** validación de datos de entrada.
+- **Spring Testing:** pruebas de componentes y de integración.
+- Configuración de aplicaciones mediante `application.properties` o `application.yml`.
+- Manejo de errores y excepciones en APIs REST.
 
-- **Enfoque:** lógica de negocio y diseño orientado a objetos.
-- **Objetivo:** construir componentes backend mantenibles y fáciles de probar.
-- **Repositorio:** [Ver proyecto en GitHub](https://github.com/xavieralvarenga/ecommerce-offer-engine)
+### Bases de datos y persistencia
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+</p>
+
+- SQL: SELECT, WHERE, ORDER BY e instrucciones CRUD.
+- PostgreSQL y diseño básico de tablas.
+- Conceptos de ORM, JPA y Hibernate.
+- Relaciones entre entidades y consultas a bases de datos.
+
+### Desarrollo backend y buenas prácticas
+
+- DTOs y separación entre entidades y respuestas de API.
+- Arquitectura por capas: Controller, Service y Repository.
+- Principios SOLID y código limpio.
+- Pruebas automatizadas con JUnit y Mockito.
+- Variables de entorno y configuración segura.
+- Documentación de APIs con OpenAPI/Swagger.
+- Docker y conceptos básicos de integración continua.
 
 ## Objetivo profesional
 
-Construir proyectos backend prácticos, con documentación clara,
-pruebas automatizadas y código mantenible, para prepararme como
-desarrollador Java Backend Junior.
+Prepararme para mi primer puesto como desarrollador Java Backend Junior
+mediante proyectos prácticos, aprendizaje continuo y buenas prácticas
+de desarrollo de software.
 
 ---
 
 <p align="center">
-  <i>Aprendiendo mediante la práctica y mejorando un proyecto a la vez.</i>
+  <i>Aprendiendo mediante la práctica, un proyecto a la vez.</i>
 </p>
