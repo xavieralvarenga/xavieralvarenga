@@ -1,23 +1,23 @@
 
-<h1 align="center">Hi, I'm Xavier Alvarenga</h1>
+<h1 align="center">Hola, soy Xavier Alvarenga</h1>
 
-<h3 align="center">Java Backend Developer in Training | 2026–2027</h3>
+<h3 align="center">Desarrollador Java Backend en formación | 2026–2027</h3>
 
 <p align="center">
-  Building backend projects with Java, focusing on clean code,
-  object-oriented programming, and maintainable business logic.
+  Desarrollando proyectos backend con Java, con enfoque en programación
+  orientada a objetos, código limpio y lógica de negocio mantenible.
 </p>
 
 ---
 
-## About Me
+## Sobre mí
 
-- Learning Java backend development through practical projects.
-- Building **Ecommerce Offer Engine**, a project focused on e-commerce offer and discount evaluation.
-- Improving my understanding of software design, testing, and backend development practices.
-- Goal: become a competitive Junior Java Backend Developer.
+- Aprendo desarrollo backend con Java mediante proyectos prácticos.
+- Desarrollo **Ecommerce Offer Engine**, un proyecto para evaluar ofertas y descuentos en comercio electrónico.
+- Fortalezco mis conocimientos de diseño de software, pruebas y buenas prácticas.
+- Mi objetivo es convertirme en un desarrollador Java Backend Junior competitivo.
 
-## Tech Stack
+## Tecnologías
 
 <p align="left">
   <a href="https://www.java.com/">
@@ -29,38 +29,44 @@
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" />
-  </a>
+</p>
+
+## Tecnologías en aprendizaje
+
+<p align="left">
   <a href="https://spring.io/projects/spring-boot">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="45" />
   </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" />
+  </a>
 </p>
 
-## Featured Project
+- Inyección de dependencias e inversión de control.
+- Manejo de excepciones y excepciones personalizadas.
+- Streams, Lambdas y Optional en Java.
+- Desarrollo de APIs REST.
+- SQL y persistencia de datos con PostgreSQL.
+- Desarrollo backend con Spring Boot.
+
+## Proyecto destacado
 
 ### Ecommerce Offer Engine
 
-A Java project focused on evaluating e-commerce offers and discounts.
+Motor de evaluación de ofertas y descuentos para comercio electrónico.
 
-- **Focus:** business logic and object-oriented design.
-- **Goal:** build maintainable, testable backend components.
-- **Repository:** [View project](https://github.com/xavieralvarenga/ecommerce-offer-engine)
+- **Enfoque:** lógica de negocio y diseño orientado a objetos.
+- **Objetivo:** construir componentes backend mantenibles y fáciles de probar.
+- **Repositorio:** [Ver proyecto en GitHub](https://github.com/xavieralvarenga/ecommerce-offer-engine)
 
-## Currently Learning
+## Objetivo profesional
 
-- Dependency Injection and Inversion of Control.
-- Exception Handling and custom exceptions.
-- Java Streams, Lambdas, and Optional.
-- REST API development.
-
-## Current Goal
-
-Develop practical backend projects with clear documentation,
-automated tests, and maintainable code.
+Construir proyectos backend prácticos, con documentación clara,
+pruebas automatizadas y código mantenible, para prepararme como
+desarrollador Java Backend Junior.
 
 ---
 
 <p align="center">
-  <i>Learning by building, improving one project at a time.</i>
+  <i>Aprendiendo mediante la práctica y mejorando un proyecto a la vez.</i>
 </p>
