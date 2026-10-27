@@ -17,6 +17,28 @@
 - Practico programación orientada a objetos, diseño de software y lógica de negocio.
 - Mi objetivo es desarrollar aplicaciones backend documentadas, probadas y mantenibles.
 
+## Estadísticas de GitHub
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=xavieralvarenga&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
+    alt="Estadísticas de GitHub"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavieralvarenga&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Lenguajes más utilizados"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=xavieralvarenga&theme=tokyonight&hide_border=true&locale=es"
+    alt="Racha de contribuciones de GitHub"
+  />
+</p>
+
 ## Tecnologías en aprendizaje
 
 ### Lenguaje y herramientas
